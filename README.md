@@ -1,4 +1,4 @@
-<h1> <b> - 👋 Hi, I’m @ignmaravi</b>
+<h1><b> - 👋 Hi, I’m @ignmaravi</b></h1>
 - 👀 I’m interested in videogames
 - 🌱 I’m currently learning DAW
 - 💞️ I’m looking to collaborate on making money
