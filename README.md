@@ -1,5 +1,5 @@
 <h1><b> - 👋 Hi, I’m @ignmaravi</b></h1><p>
-<c>- 👀 I’m interested in videogames
+<c>- 👀 I’m interested in videogames<p>
 - 🌱 I’m currently learning DAW
 - 💞️ I’m looking to collaborate on making money
 - 📫 How to reach me ignmaravi@alu.edu.gva.es
