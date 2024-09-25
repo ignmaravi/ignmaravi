@@ -1,4 +1,4 @@
-# ** - 👋 Hi, I’m @ignmaravi **
+# **- 👋 Hi, I’m @ignmaravi**
 
 _ - 👀 I’m interested in videogames<p>
 
