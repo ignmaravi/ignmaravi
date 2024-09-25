@@ -5,6 +5,7 @@
 - 📫 How to reach me ignmaravi@alu.edu.gva.es<p>
 - 😄 Pronouns: The fact that this thing arrived to github proves the decay of humanity as a society<p>
 - ⚡ Fun fact: I'm just studing this because is the most comfortable job that makes more money that i could think off<p>
+- 👾 Favorite videogames: My favorites videogames are The Legend of Zelda and Hollow Knight
 </i>
 <!---
 ignmaravi/ignmaravi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
